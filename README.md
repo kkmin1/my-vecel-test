@@ -1,4 +1,4 @@
-# my-vecel-test
+# my-vercel-test
 
 정적 웹 페이지를 간단히 배포해 보기 위한 소규모 Vercel 테스트 저장소입니다.
 
